@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Piano Composers</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Play">Play</string>
+    <string name="Stop">Stop</string>
+    <string name="todo">todo</string>
+    <string name="music_player">music_player</string>
+    <string name="song_3">song_3</string>
+    <string name="song_2">song_2</string>
+    <string name="song_1">song_1</string>
+    <string name="Info">Info</string>
+</resources>
